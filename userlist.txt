@@ -1,0 +1,4 @@
+1,malbert
+0,harriet
+1,waldo
+0,norma
